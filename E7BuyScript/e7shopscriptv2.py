@@ -8,7 +8,7 @@
 #        Geoffrey Mohn
 #
 #################################
-# R is buy D is confirm refresh space is refresh
+# R is buy D is confirm refresh space is refresh down is scroll
 # packages
 import cv2
 import numpy as np

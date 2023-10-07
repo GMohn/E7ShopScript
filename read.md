@@ -1,0 +1,7 @@
+- need python
+- need cv `pip install opencv-python`
+- need pag `pip install pyautogui`
+- space hovers refresh button
+- r hovers buy button 
+- d hovers confirm refresh button
+- scroll down is set as down arrow
